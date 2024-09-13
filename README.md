@@ -38,6 +38,7 @@
 | CS224N: Natural Language Processing with Deep Learning| Intro and Advanced topics in NLP | [Link](https://web.stanford.edu/class/cs224n/) | From Standford |
 | CS 198-126: Modern Computer Vision | Intro topics in computer vision | [Link](https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5)| From UC Berkeley |
 | CS 11-711: Advanced NLP (Fall 2024) | SOTA topics in NLP | [Link](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)| From CMU |
+| Deep Unsupervised Learning -- Berkeley Spring 2024|Beginner Level introduction, Covers GenAI topics |[Link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U)| From UC Berkely|
 
 # Niche Topics
 ## Convex Optimization 
