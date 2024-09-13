@@ -37,6 +37,7 @@
 |CS 285 Deep Reinforcement Learning | Introductory topics in RL | [Link](https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps&pp=iAQB)|From UC Berkeley| 
 | CS224N: Natural Language Processing with Deep Learning| Intro and Advanced topics in NLP | [Link](https://web.stanford.edu/class/cs224n/) | From Standford |
 | CS 198-126: Modern Computer Vision | Intro topics in computer vision | [Link](https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5)| From UC Berkeley |
+| CS 11-711: Advanced NLP (Fall 2024) | SOTA topics in NLP | [Link](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)| From CMU |
 
 # Niche Topics
 ## Convex Optimization 
