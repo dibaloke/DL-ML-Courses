@@ -23,7 +23,6 @@
 |Deep Learning for Computer Vision, Winter 2022| Basic and Advanced topics in deep learning| [Link](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | From University of Michigan|
 | Deep Learning from the University of Tübingen| Intro topics of deep learning | [Link](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)| From University of Tübingen|
 | CS 182 Designing, Visualizing and Understanding Deep Neural Networks| Basic and Advanced topics in deep learning | [Link](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A&pp=iAQB)| From UC Berkeley |
-
 | Virginia Tech Fall 2015 Machine Learning | Basic concepts of Machine Learning (Rigorous Mathematics) | [Link](https://www.youtube.com/watch?v=gZkQYANS5Mo&list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob) | From Virginia Tech |
 
 # Advanced Topics in Deep Learning 
